@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665040897412",
+    "project_id": "gbwhastapp-48040",
+    "storage_bucket": "gbwhastapp-48040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665040897412:android:4cf8cf3ac60b083fa349d1",
+        "android_client_info": {
+          "package_name": "com.example.gbwhastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665040897412-norc2mrbcr2nak3d735ffc0sflbac5fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mo4SJltFTbUhCARvOjS4UFWgixMkeJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665040897412-norc2mrbcr2nak3d735ffc0sflbac5fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
