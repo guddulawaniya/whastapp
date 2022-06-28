@@ -44,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId())
         {
             case R.id.settings:
-                Toast.makeText(this, "Setting coming soon", Toast.LENGTH_SHORT).show();
+                Intent intent1 = new Intent(MainActivity.this,SettingActivity.class);
+                startActivity(intent1);
                 break;
 
             case R.id.logout:
