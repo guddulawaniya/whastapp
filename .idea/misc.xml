@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/drawable/facebook.xml" value="0.121" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/drawable/google.xml" value="0.121" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/drawable/user.xml" value="0.121" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/layout/activity_chat_detail.xml" value="0.21195652173913043" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/layout/activity_group_chat.xml" value="0.21195652173913043" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GBwhastapp/app/src/main/res/layout/activity_log_in.xml" value="0.21195652173913043" />

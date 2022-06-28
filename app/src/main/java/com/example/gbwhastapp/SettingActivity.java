@@ -73,7 +73,7 @@ public class SettingActivity extends AppCompatActivity {
                         Users users = snapshot.getValue(Users.class);
                         Picasso.get()
                                 .load(users.getProfilepic())
-                                .placeholder(R.drawable.user)
+                                .placeholder(R.drawable.usernamepic)
                                 .into(binding.profileImage);
 
                         binding.etStatus.setText(users.getStatus());

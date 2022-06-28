@@ -46,7 +46,7 @@ public class ChatDetailActivity extends AppCompatActivity {
         String profilepic = getIntent().getStringExtra("profilepic");
 
         binding.userName.setText(userName);
-        Picasso.get().load(profilepic).placeholder(R.drawable.user).into(binding.profileImage);
+        Picasso.get().load(profilepic).placeholder(R.drawable.usernamepic).into(binding.profileImage);
 
 
 
